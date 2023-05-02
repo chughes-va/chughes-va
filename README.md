@@ -24,4 +24,6 @@ See my work
 
 <a href="https://www.youtube.com/SNikhill">@YouTube</a>
 
-                 
+
+  
+ <a href="https://www.linkedin.com/in/chughes1" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a></p>
