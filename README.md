@@ -9,7 +9,7 @@ I have been with the VA for over 10 years leading human-center design efforts, a
 
 <h4>Portfolio</h4>
 See my work
-[ChrisHughes.io](http://chrishughes.io)
+[ChrisHughes.io])
 
 <h4>Skills</h4>
 <p align="left">
