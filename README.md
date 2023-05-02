@@ -1,6 +1,5 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Chris Hughes
 <hr>
-
 <h3>CX Strategist | Human-Centered Designer</h3>
 <hr>
 
@@ -23,3 +22,5 @@ I have been with the VA for over 10 years leading human-center design efforts, a
 
 <h4>Quote/h4>
   <blockquote> The definition of insanity is doing the same thing over and over and expecting different results. <i> - Albert Einstein</i> </blockquote>
+
+ <p align="left"> <img src="https://komarev.com/ghpvc/?username=chughes-va&label=Profile%20views&color=0e75b6&style=flat" alt="chughes-va" /> </p>
