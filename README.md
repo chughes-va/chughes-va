@@ -7,8 +7,8 @@ CX Strategist | Human-Centered Designer
 
 I have been with the VA for over 10 years leading human-center design efforts (HCD), and I love what I do.😍
 
-• Facilitator of Design Thinking & CX to transforming the experience of health care for our Veterans. 
-• Lover of life, design, travel, frivolity, and mindfulness
+* Facilitator of Design Thinking & CX to transforming the experience of health care for our Veterans
+* Lover of life, design, travel, frivolity, and mindfulness
 
 
 <br>
