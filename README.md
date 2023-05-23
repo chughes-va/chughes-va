@@ -5,7 +5,10 @@ CX Strategist | Human-Centered Designer
 ---------------------------------------
 
 
-I have been with the VA for over 10 years leading human-center design efforts, and I love what I do.😍
+I have been with the VA for over 10 years leading human-center design efforts (HCD), and I love what I do.😍
+
+Facilitator of Design Thinking & CX to transforming the experience of health care for our Veterans. • Lover of life, design, travel, frivolity, and mindfulness
+
 
 <br>
 <h4>Portfolio</h4><a href="https://ChrisHughes.io" target="_blank" rel="noreferrer">ChrisHughes.io</a>
