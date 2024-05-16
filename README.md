@@ -15,7 +15,7 @@ I have been with the VA for over 10 years leading human-center design efforts (H
 <h4>Portfolio</h4><a href="https://ChrisHughes.io" target="_blank" rel="noreferrer">ChrisHughes.io</a>
 
 <h4>Skills</h4>
-[![My Skills](https://skillicons.dev/icons?i=github,html,ai,ps,wordpress,figma&theme=dark)](https://skillicons.dev)
+
 [![My Skills](https://skillicons.dev/icons?i=html,github,ai,ps,wordpress,figma)](https://skillicons.dev)
 
 <h4>Connect with me</h4>
