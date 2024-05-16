@@ -9,7 +9,7 @@ I have been with the VA for over 10 years leading human-center design efforts (H
 
 * Facilitator of Design Thinking & CX to transforming the experience of health care for our Veterans
 * Lover of life, design, travel, frivolity, and mindfulness
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,wasm)](https://skillicons.dev)
 
 <br>
 <h4>Portfolio</h4><a href="https://ChrisHughes.io" target="_blank" rel="noreferrer">ChrisHughes.io</a>
